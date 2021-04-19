@@ -237,25 +237,27 @@
 ## 김환태
 
 자기소개
+- Cloud와 Data Platform 전문가 - 다양한 경험(프리랜서/스타트업/대기업/외국계)
 - LinkedIn: https://www.linkedin.com/in/hwan-tae-kim-6651663a/
-- Bespin Academy(제작 및 운영): https://www.bespinacademy.com/
-- Cloud와 Data에 대한 내용은 저한테 물어보세요!
 - 페이스북 : https://www.facebook.com/profile.php?id=100001453421346
 
 주요분야
-- Data Platform 전반 : Database, Big Data, AI/ML, Visulization, IoT
-- Cloud Coumputing 전반 : Azure 및 GCP 공인 강사 자격 보유
+- Cloud Computing(Azure/AWS/GCP)
+- Data Platform - Database, Big Data, AI/ML, Visualization, IoT
+- Industry - 금융/이커머스/제조/헬스케어/교육
+- 최근 관심분야 - Low Code / No Code Development Platform
 
 대외활동
-- DATA INSIGHT STUDY BLOG - http://distudy.azurewebsites.net/
-- 주요 온오프라인행사 스피커 참여
+- 클라우드 역량강화 TFT with 42SEOUL(2021년) - http://52.231.51.123/
+- Azure ML과 Power BI로 분석/예측하는 COVID-19(2020년) - https://www.youtube.com/watch?v=pRXxat0kaXQ
+- DATA INSIGHT STUDY BLOG(2016년~) - http://distudy.azurewebsites.net/
 
-주요경력 : 1998년 ~ (22년차)
-- Cloud 및 Data&ML 전문가
-- 한국 대표 유니콘 후보 클라우드 스타트업인 베스핀 글로벌의 Bespin Academy Team
+주요경력 
+- KB손해보험(2020년 7월~) - 클라우드 아키텍트/헬스케어(신사업)/마이데이터
+- Bespin Global(2018년~2020년) - 한국 대표 클라우드 스타트업에서 다양한 업무 수행
 - 내부 직원 및 고객 역량 강화 업무를 담당
-- Microsoft Consulting Services에서 Data & AI Architect로 근무
-- 다양한 국내외 Cloud 및 Data 관련 프로젝트에 참여한 경험을 가지고 있습니다.
+- Microsoft(2011년~2018년) - Consulting Services Data & AI Architect
+- 재미있고 다양한 국내외 프로젝트 참여했음
 
 ## 박수현
 
